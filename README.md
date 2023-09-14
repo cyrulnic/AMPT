@@ -1,2 +1,2 @@
 # AMPT
-R code of statistical signicance camputations
+R code of statistical signicance computations for ensemble predictions with AMPT model perturbation
